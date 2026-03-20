@@ -1,5 +1,5 @@
 const Index = () => {
-  // Sync trigger: minimal code change to force GitHub update
+  // Sync trigger v2: force immediate GitHub update
   return (
     <main className="hero-gradient-bg flex min-h-screen items-center justify-center">
       <h1 className="hero-title text-center">FLAMENGO</h1>
